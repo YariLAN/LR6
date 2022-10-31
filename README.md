@@ -18,7 +18,7 @@
 
 #### Изменения репозитория в GitHub и обновление копии 
 
-![](ForLABA6/CreateANewFile.png)
+![](ForLABA6/HZ.png)
 
 ![](ForLABA6/GitPullLL.png)
 
