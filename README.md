@@ -2,25 +2,25 @@
 Лабораторная работа №6
 Настройка конфига командой git --global. Результаты изменений.
 
-![](ForLABA6\НАЧАло.png)
+![](ForLABA6/НАЧАло.png)
 
 Переход к рабочей папке
 
-![](ForLABA6\RouteToFile.png)
+![](ForLABA6/RouteToFile.png)
 
 Клонирование удаленного репозитория
 
-![](ForLABA6\Clone.png)
+![](ForLABA6/Clone.png)
 
 Переход в папку с репозиторием
 
-![](ForLABA6\AddRepositoryWithReadyFile.png)
+![](ForLABA6/AddRepositoryWithReadyFile.png)
 
  Изменения репозитория в GitHub и обновление копии 
 
-![](ForLABA6\CreateANewFile.png)
+![](ForLABA6/CreateANewFile.png)
 
-![](ForLABA6\GitPullLL.png)
+![](ForLABA6/GitPullLL.png)
 
 Работа с ветками
  Список всех веток
